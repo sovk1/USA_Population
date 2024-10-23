@@ -1,4 +1,4 @@
-# 🏂 Sales Dashboard
+# Sales Dashboard
 
 A dashboard web app template built in Python using Streamlit.
 
